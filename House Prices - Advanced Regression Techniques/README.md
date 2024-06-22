@@ -1,1 +1,18 @@
-https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
+## Подробное описание на Kaggle.сom: <br>
+[House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
+
+## Данные
+Задача: предсказать стоимость домов <br>
+Признаков:  79 <br>
+Наблюдений: 1460 <br>
+
+## Решение
+Основной алгоритм: XGBoost
+Ход решения:
+- тщательная оценка признаков;
+- заполнение пропущенных значений;
+- трансформирование категориалных переменных;
+- оптимизация данных;
+- подборка комбинации гиперпараметров модели;
+- оценка результата;
+- поиск возможностей увеличения предсказательной точности модели.
