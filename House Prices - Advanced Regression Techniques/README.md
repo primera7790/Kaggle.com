@@ -1,6 +1,13 @@
-## Подробное описание на Kaggle.сom: <br>
+# House Prices - Advanced Regression Techniques
+
+## Ссылка соревнования на Kaggle.сom <br>
 [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)<br>
 
+## Технологи
+- Язык: &nbsp; `python`;
+- Библиотеки: &nbsp; `pandas`, `numpy`, `sklearn`, `matplotlib`, `optuna`;
+- Алгоритмы: &nbsp; `XGBoost`.
+  
 ## Данные
 Наблюдения: &nbsp; 1460 строк. <br>
 
