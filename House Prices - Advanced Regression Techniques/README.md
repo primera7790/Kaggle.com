@@ -5,7 +5,7 @@
 Score: 0.12933 (Root Mean Squared Logarithmic Error) <br>
 Among the top 21-25%
 
-## Технологи
+## Технологии
 - Язык: &nbsp; `python`;
 - Библиотеки: &nbsp; `pandas`, `numpy`, `sklearn`, `matplotlib`, `optuna`;
 - Алгоритмы: &nbsp; `XGBoost`.
