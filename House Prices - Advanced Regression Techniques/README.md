@@ -19,7 +19,7 @@ Among the top 21-25%
 
 ## Решение
 
-### Предобработка данных:
+### Предобработка:
 - пропущенные значения: &nbsp; `SimpleImputer()`, `pd.fillna()`;
 - категориальные признаки: &nbsp; `OrdinalEncoder()`, `pd.get_dummies()`.
 
