@@ -2,6 +2,8 @@
 
 ## Ссылка соревнования на Kaggle.сom <br>
 [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)<br>
+Score: 0.12933 (Root Mean Squared Logarithmic Error) <br>
+Among the top 21-25%
 
 ## Технологи
 - Язык: &nbsp; `python`;
@@ -11,7 +13,7 @@
 ## Данные
 Наблюдения: &nbsp; 1460 строк. <br>
 
-Признаки: &nbsp;  80 колонок (_float64(3), int64(34), object(43)_). <br>
+Признаки: &nbsp;  80 колонок: _float64(3), int64(34), object(43)_. <br>
 
 Целевой признак: &nbsp; количественный, _int64_.
 
